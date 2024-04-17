@@ -1,0 +1,11 @@
+# Ignore the 'ignore-this-file.txt' file
+ignore-this-file.txt
+# Ignore the 'ignore-this-folder.txt' file
+ignore-this-folder/
+# ALternatively, you can ignore both the file and the folder beginning
+# with 'ignore' as follows
+#ignore-*
+
+# Ignore the '.DS_Store' file
+.DS_Store
+
